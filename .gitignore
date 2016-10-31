@@ -1,0 +1,8 @@
+# Ignore all directories but the relevant ones, for now
+Data1/
+Data2/
+Data3/
+DataTrans/
+DataTrans_output/
+Info/
+Scripts/
